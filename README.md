@@ -2,8 +2,15 @@
 
 ## **Contents**
 
+- [R Packages](#r-packages)
 - [Data Visualisation](#data-visualisation)
 - [Miscellaneous](#miscellaneous)
+
+## R packages
+
+Anything I find use relating to R packages.
+
+- [Awesome R](https://github.com/qinwf/awesome-R). A curated list of awesome R packages and tools
 
 ## Data visualisation
 
