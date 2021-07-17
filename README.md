@@ -5,6 +5,7 @@
 - [R Packages](#r-packages)
 - [Data Visualisation](#data-visualisation)
 - [Reproducible Research and Reporting](#reproducible-research-and-reporting)
+- [Presentation Slides](#presentation-slides)
 - [Miscellaneous](#miscellaneous)
 
 ## R packages
@@ -26,6 +27,10 @@ Resources for learning how to create data visualisations and convenient referenc
 Resources to help with creating reproducible workflows for research and reporting outputs.
 
 - [Publication-Ready Summary Tables: `gtsummary`](http://www.danieldsjoberg.com/gtsummary/). :blue_heart: Amazing package that has helped me heaps with easily producing research results, e.g. tabulating results from linear regression models. Highly recommend.
+
+## Presentation slides
+
+- [Bibliography in `xaringan`](https://github.com/yihui/xaringan/issues/26). A link to a GitHub issue for `xaringan` and code on how to incorporate a bibliography into slides.
 
 ## Miscellaneous
 
