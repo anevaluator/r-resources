@@ -17,8 +17,14 @@ Anything I find use relating to R packages.
 Resources for learning how to create data visualisations and convenient references.
 
 - [Top 50 ggplot2 Visualizations](http://r-statistics.co/Top50-Ggplot2-Visualizations-MasterList-R-Code.html). A nice collection of `ggplot2` data visualisation which includes the code as well.
-- [`ggpubr`: Publication Ready Plots](http://www.sthda.com/english/articles/24-ggpubr-publication-ready-plots/). :blue_heart: A great package for times when you need to produce clean visualisations for research outputs.
-- [`ggstatsplot`: ggplot2 Based Plots with Statistical Details](https://indrajeetpatil.github.io/ggstatsplot/). :blue_heart: The ultimate R package for the researcher who need to produce visualisations.
+- [Publication Ready Plots: `ggpubr`](http://www.sthda.com/english/articles/24-ggpubr-publication-ready-plots/). :blue_heart: A great package for times when you need to produce clean visualisations for research outputs.
+- [ggplot2 Based Plots with Statistical Details: `ggstatsplot`](https://indrajeetpatil.github.io/ggstatsplot/). :blue_heart: The ultimate R package for the researcher who need to produce visualisations.
+
+## Reproducible research and reporting
+
+Resources to help with creating reproducible workflows for research and reporting outputs.
+
+- [Publication-Ready Summary Tables: `gtsummary`](http://www.danieldsjoberg.com/gtsummary/). :blue_heart: Amazing package that has helped me heaps with easily producing research results, e.g. tabulating results from linear regression models. Highly recommend.
 
 ## Miscellaneous
 
