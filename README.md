@@ -4,6 +4,7 @@
 
 - [R Packages](#r-packages)
 - [Data Visualisation](#data-visualisation)
+- [Reproducible Research and Reporting](#reproducible-research-and-reporting)
 - [Miscellaneous](#miscellaneous)
 
 ## R packages
