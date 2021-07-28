@@ -32,6 +32,7 @@ Resources to help with creating reproducible workflows for research and reportin
 
 - [Bibliography in `xaringan`](https://github.com/yihui/xaringan/issues/26). A link to a GitHub issue for `xaringan` and code on how to incorporate a bibliography into slides.
 - [Exporting `xaringan` slides to PDF](https://github.com/yihui/xaringan/wiki/Export-Slides-to-PDF). 
+- [Extensions and functions for `xaringan` slides in `xaringanExtra`](https://github.com/gadenbuie/xaringanExtra). xaringanExtra is a playground of enhancements and extensions for xaringan slides.
 - [Sharing your Work with `xaringan`](https://spcanelon.github.io/xaringan-basics-and-beyond/slides/day-01-basics.html#1). Clean slides for a workshop by Silvia Canelon, PhD.
 - [Teaching in Production](https://rstudio-education.github.io/teaching-in-production/). Presentation slides of the "Teaching in Production" workshop by Dr Alison Hill.
 
