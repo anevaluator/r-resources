@@ -35,6 +35,11 @@ Resources to help with creating reproducible workflows for research and reportin
 - [Extensions and functions for `xaringan` slides in `xaringanExtra`](https://github.com/gadenbuie/xaringanExtra). xaringanExtra is a playground of enhancements and extensions for xaringan slides.
 - [Sharing your Work with `xaringan`](https://spcanelon.github.io/xaringan-basics-and-beyond/slides/day-01-basics.html#1). Clean slides for a workshop by Silvia Canelon, PhD.
 - [Teaching in Production](https://rstudio-education.github.io/teaching-in-production/). Presentation slides of the "Teaching in Production" workshop by Dr Alison Hill.
+- [Workshop: Improve your plots with ggplot2](https://github.com/mireia-bioinfo/workshop_ggplot2). Presentation slides of the "Improve your plots with ggplot2 - R Ladies Barcelona Workshop by Mireia Ramos-Rodríguez.
+- [Data Visualisation in R](https://emitanaka.org/workshopUTokyo2018/day1-session02-datavis.html#1). Presentation slides of the 
+- [Writing Reproducible Research Papers with R Markdown](https://github.com/resulumit/rmd_workshop). Presentation slides by Resul Umit on writing reproducible research papers in R Markdown.
+	+ GitHub: https://github.com/resulumit/rmd_workshop
+	+ Slides: https://resulumit.com/teaching/rmd_workshop.html#1
 
 ## Miscellaneous
 
